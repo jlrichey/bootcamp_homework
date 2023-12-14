@@ -10,6 +10,17 @@ Plaid Incorporated is a financial services provider that operates in the domains
 
 Founded in 2013 by Zach Perret and William Hockey, the company is headquartered in San Francisco, California. Originally aimed at developing financial management products for the end user, Perret and Hockey attempted to bring booking and budgeting software to market. Facing the challenges of linking their software to banking institutions, they shifted their focus to meet this need for a unified banking application programming interface (“API”). 
 
+### Funding
+
+| Year  | Round | Primary Investor | Funding | Valuation |
+| :------------- | :------------- | :-------------: | :------------- | :-------------: |
+|2013 | Seed| [Spark Capital](https://www.sparkcapital.com/)| $2.8 mil| undisclosed|
+|2014 | Series A| [New Enterprise Associates](https://www.nea.com/)| $12.5M| undisclosed|
+|2016 | Series B| [Goldman Sachs Investment Partnerrs](https://growth.gs.com/homepage)| $44 mil| undisclosed|
+|2018 | Series C| [Mary Meeker](https://www.bondcap.com/partners/mary-meeker/), [Norwest Venture Partners](https://www.nvp.com/), [Index Ventures](https://www.indexventures.com/)| $250M| $2.65B|
+|2021 | Series D| [Altimeter Capital](https://www.altimeter.com/home), [Silver Lake](https://www.silverlake.com/), [Ribbit Capital](https://ribbitcap.com/)| $425M| $13.4B|
+
+
 
 ## Business Activities
 
@@ -66,7 +77,7 @@ Plaid has developed a platform that facilitates the connection between Fintech c
 | Wikipedia  | [Plaid, Inc.](https://en.m.wikipedia.org/wiki/Plaid_Inc.)  |
 | Forbes  | [Fintech's Happy Plumbers](https://www.forbes.com/plaid-fintech/#3b5db98f67f9)  |
 | Forbes  | [Plaid Launches New Feature To Speed Up Bank Payments](https://www.forbes.com/sites/emilymason/2023/04/13/plaid-launches-new-feature-to-speed-up-bank-payments/?sh=6713fe164e2b)  |
-| Plaid  | [The Fintech Effect](link)  |
+| Plaid  | [Various articles from Plaid Blog](https://plaid.com/blog/)  |
 | Plaid  | [The Fintech Effect](link)  |
 | Plaid  | [The Fintech Effect](link)  |
 
