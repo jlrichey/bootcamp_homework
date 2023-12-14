@@ -30,7 +30,7 @@ Plaid has developed a platform that facilitates the connection between Fintech c
 
 ## Addendum - Sources
 
-
+* []
 * <https://www.reuters.com/article/plaid-m-a-visa-doj-idUSKBN27D0JJ/>
 * <https://www.reuters.com/article/idUSKBN2BU1IC/>
 * <https://www.reuters.com/article/us-visa-lawsuit-plaid-idUSKBN27L26S/>
@@ -47,9 +47,9 @@ Plaid has developed a platform that facilitates the connection between Fintech c
 | Google Analytics | [plugins/googleanalytics/README.md][PlGa] |
 
 
-| First Header  | Second Header |
+| Source  | Link |
 | ------------- | ------------- |
-| Content Cell  | Content Cell  |
+| Forbes Advisor  | !<https://www.forbes.com/advisor/investing/plaid-ipo/#:~:text=Plaid's%20business%20jumped%20by%2060,was%20going%20to%20the%20moon>  |
 | Content Cell  | Content Cell  |
 
 
