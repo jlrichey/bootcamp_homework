@@ -49,9 +49,20 @@ Plaid has developed a platform that facilitates the connection between Fintech c
 
 | Source  | Link |
 | ------------- | ------------- |
-| Forbes Advisor  | ![Plaid IPO: What You Need to Know]<https://www.forbes.com/advisor/investing/plaid-ipo/#:~:text=Plaid's%20business%20jumped%20by%2060,was%20going%20to%20the%20moon>  |
-| Content Cell  | Content Cell  |
-
+| Forbes Advisor  |[Plaid IPO: What You Need to Know](https://www.forbes.com/advisor/investing/plaid-ipo/#:~:text=Plaid's%20business%20jumped%20by%2060,was%20going%20to%20the%20moon)  |
+| Plaid  | [The Fintech Effect](link)  |
+| Plaid  | [The Fintech Effect](link)  |
+| Plaid  | [The Fintech Effect](link)  |
+| Plaid  | [The Fintech Effect](link)  |
+| Plaid  | [The Fintech Effect](link)  |
+| Plaid  | [The Fintech Effect](link)  |
+| Plaid  | [The Fintech Effect](link)  |
+| Plaid  | [The Fintech Effect](link)  |
+| Plaid  | [The Fintech Effect](link)  |
+| Plaid  | [The Fintech Effect](link)  |
+| Plaid  | [The Fintech Effect](link)  |
+| Plaid  | [The Fintech Effect](link)  |
+| Plaid  | [The Fintech Effect](link)  |
 
 
 ```python
