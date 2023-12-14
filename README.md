@@ -1,10 +1,30 @@
-# bootcamp_homework
+# FinTech Class Study - Plaid Inc. | 
 
-![This is a sample picture](https://www.url.com)
 
+
+
+
+| Plugin | README |
+| ------ | ------ |
+| Dropbox | [plugins/dropbox/README.md][PlDb] |
+| GitHub | [plugins/github/README.md][PlGh] |
+| Google Drive | [plugins/googledrive/README.md][PlGd] |
+| OneDrive | [plugins/onedrive/README.md][PlOd] |
+| Medium | [plugins/medium/README.md][PlMe] |
+| Google Analytics | [plugins/googleanalytics/README.md][PlGa] |
+
+
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
 ## This is a test file, and I will upload this file to GitHub, manually
 
 ### Answer all the questions. 
+
+
+
+
 
 
 ```python
