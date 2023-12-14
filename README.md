@@ -14,9 +14,9 @@ Founded in 2013 by Zach Perret and William Hockey, the company is headquartered 
 
 | Year  | Round | Primary Investor | Funding | Valuation |
 | :------------- | :------------- | :-------------: | :------------- | :-------------: |
-|2013 | Seed| [Spark Capital](https://www.sparkcapital.com/)| $2.8 mil| undisclosed|
+|2013 | Seed| [Spark Capital](https://www.sparkcapital.com/)| $2.8M| undisclosed|
 |2014 | Series A| [New Enterprise Associates](https://www.nea.com/)| $12.5M| undisclosed|
-|2016 | Series B| [Goldman Sachs Investment Partnerrs](https://growth.gs.com/homepage)| $44 mil| undisclosed|
+|2016 | Series B| [Goldman Sachs Investment Partnerrs](https://growth.gs.com/homepage)| $44M| undisclosed|
 |2018 | Series C| [Mary Meeker](https://www.bondcap.com/partners/mary-meeker/), [Norwest Venture Partners](https://www.nvp.com/), [Index Ventures](https://www.indexventures.com/)| $250M| $2.65B|
 |2021 | Series D| [Altimeter Capital](https://www.altimeter.com/home), [Silver Lake](https://www.silverlake.com/), [Ribbit Capital](https://ribbitcap.com/)| $425M| $13.4B|
 
