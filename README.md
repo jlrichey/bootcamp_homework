@@ -1,8 +1,16 @@
-# FinTech Class Study - Plaid Inc. | 
+# FinTech Class Study - Plaid Inc.
 
-| Website: [https://www.plaid.com] | [](images/440px-Plaid_logo.svg.png)
+| Website: https://www.plaid.com | ![test](images/440px-Plaid_logo.svg.png)
 
-##
+## Business Activities
+
+## Landcape
+
+## Results
+
+## Recommendations
+
+
 
 
 
