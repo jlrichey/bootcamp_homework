@@ -63,6 +63,10 @@ Plaid has developed a platform that facilitates the connection between Fintech c
 | TechCrunch  | [How Plaid's CTO grew his engineering team 17.5x in 4 years](https://techcrunch.com/2022/03/28/how-plaids-cto-grew-his-engineering-team-17-5x-in-4-years/)  |
 | Silicone Valley Business Journal  | [Here are the Plaid investors who won big...](https://www.bizjournals.com/sanjose/news/2020/01/14/plaid-visa-acquisition-vc-return-nea-spark-kleiner.html)  |
 | This Week in Startups podcast  | [The Future of fintech with Plaid CEO Zach Perret](https://podcasts.apple.com/us/podcast/the-future-of-fintech-with-plaid-ceo-zach-perret-e1818/id315114957?i=1000629464564)  |
+| Wikipedia  | [Plaid, Inc.](https://en.m.wikipedia.org/wiki/Plaid_Inc.)  |
+| Forbes  | [Fintech's Happy Plumbers](https://www.forbes.com/plaid-fintech/#3b5db98f67f9)  |
+| Forbes  | [Plaid Launches New Feature To Speed Up Bank Payments](https://www.forbes.com/sites/emilymason/2023/04/13/plaid-launches-new-feature-to-speed-up-bank-payments/?sh=6713fe164e2b)  |
+| Plaid  | [The Fintech Effect](link)  |
 | Plaid  | [The Fintech Effect](link)  |
 | Plaid  | [The Fintech Effect](link)  |
 
