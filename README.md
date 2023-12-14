@@ -55,11 +55,11 @@ Plaid has developed a platform that facilitates the connection between Fintech c
 | Fintech Business Weekly podcast  | [Interview: Alain Meier, Plaid's Head of Identity](https://fintechbusinessweekly.substack.com/p/interview-alain-meier-plaids-head)  |
 | Stackshare  | [Stackshare - Plaid](https://stackshare.io/plaid/plaid)  |
 | Fintech Weekly  | [Plaid Co-Founder Buys a Bank](https://fintechbusinessweekly.substack.com/p/plaid-co-founder-buys-a-bank-goldman)  |
-| Plaid  | [The Fintech Effect](link)  |
-| Plaid  | [The Fintech Effect](link)  |
-| Plaid  | [The Fintech Effect](link)  |
-| Plaid  | [The Fintech Effect](link)  |
-| Plaid  | [The Fintech Effect](link)  |
+| Bloomberg  | [The Fintech Effect](link)  |
+| Bloomberg - Markets Magazine  | [How a $13 Billion Fintech That Angered Jamie Dimon Won Over Banks](https://www.bloomberg.com/news/features/2023-05-31/plaid-scared-jamie-dimon-but-fintech-behind-venmo-and-robinhood-won-him-over)  |
+| CNBC - Finance  | [Fintech stat-up Plaid raises $250 million at $2.7 billion valuation...](https://www.cnbc.com/2018/12/11/plaids-250-million-funding-round-propels-it-to-2point7-billion-valuation.html)  |
+| TechCrunch  | [Gradient Ventures backs Axle's 'Plaid for insurance' approach to data verification](https://techcrunch.com/2023/04/10/gradient-ventures-axle-plaid-insurance-verification/)  |
+| TechCrunch  | [FInger on your pulse: API-first startup Vivanta hopes ot be Plaid for health](https://techcrunch.com/2022/06/21/finger-on-your-pulse-api-first-startup-vivanta-hopes-to-be-plaid-for-health/)  |
 | Plaid  | [The Fintech Effect](link)  |
 | Plaid  | [The Fintech Effect](link)  |
 
