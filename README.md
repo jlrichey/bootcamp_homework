@@ -59,7 +59,10 @@ Plaid has developed a platform that facilitates the connection between Fintech c
 | Bloomberg - Markets Magazine  | [How a $13 Billion Fintech That Angered Jamie Dimon Won Over Banks](https://www.bloomberg.com/news/features/2023-05-31/plaid-scared-jamie-dimon-but-fintech-behind-venmo-and-robinhood-won-him-over)  |
 | CNBC - Finance  | [Fintech stat-up Plaid raises $250 million at $2.7 billion valuation...](https://www.cnbc.com/2018/12/11/plaids-250-million-funding-round-propels-it-to-2point7-billion-valuation.html)  |
 | TechCrunch  | [Gradient Ventures backs Axle's 'Plaid for insurance' approach to data verification](https://techcrunch.com/2023/04/10/gradient-ventures-axle-plaid-insurance-verification/)  |
-| TechCrunch  | [FInger on your pulse: API-first startup Vivanta hopes ot be Plaid for health](https://techcrunch.com/2022/06/21/finger-on-your-pulse-api-first-startup-vivanta-hopes-to-be-plaid-for-health/)  |
+| TechCrunch  | [FInger on your pulse: API-first startup Vivanta hopes to be Plaid for health](https://techcrunch.com/2022/06/21/finger-on-your-pulse-api-first-startup-vivanta-hopes-to-be-plaid-for-health/)  |
+| TechCrunch  | [How Plaid's CTO grew his engineering team 17.5x in 4 years](https://techcrunch.com/2022/03/28/how-plaids-cto-grew-his-engineering-team-17-5x-in-4-years/)  |
+| Silicone Valley Business Journal  | [Here are the Plaid investors who won big...](https://www.bizjournals.com/sanjose/news/2020/01/14/plaid-visa-acquisition-vc-return-nea-spark-kleiner.html)  |
+| This Week in Startups podcast  | [The Future of fintech with Plaid CEO Zach Perret](https://podcasts.apple.com/us/podcast/the-future-of-fintech-with-plaid-ceo-zach-perret-e1818/id315114957?i=1000629464564)  |
 | Plaid  | [The Fintech Effect](link)  |
 | Plaid  | [The Fintech Effect](link)  |
 
