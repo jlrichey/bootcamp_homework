@@ -1,6 +1,8 @@
 # FinTech Class Study - Plaid Inc. | 
 
+| Website: [https://www.plaid.com] | [](images/440px-Plaid_logo.svg.png)
 
+##
 
 
 
@@ -32,5 +34,5 @@ print("Hello world")
 ```
 
 [data](data)
-[images](images)
+[images](images/VSlogo.png)
 [resources](resources)
