@@ -1,4 +1,4 @@
-# FinTech Class Study for Plaid Inc.
+# FinTech Class Case Study for Plaid Inc.
 
 ![test](images/350px-Plaid_logo.png)
 
