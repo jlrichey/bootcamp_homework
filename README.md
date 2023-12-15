@@ -12,8 +12,8 @@ Founded in 2013 by Zach Perret and William Hockey, the company is headquartered 
 
 ### Funding
 
-| Year  | Round | Primary Investor | Funding | Valuation |
-| :------------- | :------------- | :-------------: | :------------- | :-------------: |
+| Year  | Round | Primary Investor(s) | Funding | Valuation |
+| :------------- | :------------- | :-------------: | :-------------: | :-------------: |
 |2013 | Seed| [Spark Capital](https://www.sparkcapital.com/)| $2.8M| undisclosed|
 |2014 | Series A| [New Enterprise Associates](https://www.nea.com/)| $12.5M| undisclosed|
 |2016 | Series B| [Goldman Sachs Investment Partnerrs](https://growth.gs.com/homepage)| $44M| undisclosed|
@@ -21,6 +21,9 @@ Founded in 2013 by Zach Perret and William Hockey, the company is headquartered 
 |2021 | Series D| [Altimeter Capital](https://www.altimeter.com/home), [Silver Lake](https://www.silverlake.com/), [Ribbit Capital](https://ribbitcap.com/)| $425M| $13.4B|
 
 
+### Plaid Founders
+![Plaid Founders](https://imageio.forbes.com/specials-images/imageserve/606cc07c057d1b6bbe16ce7a/Plaid-cofounders-William-Hockey-and-Zach-Perret/0x0.jpg?format=jpg&width=1440)
+<sub>Plaid co-founders William Hockey (left) and Zach Perret (right) - Source: Forbes.com - © Kevin Hu</sub>
 
 ## Business Activities
 
