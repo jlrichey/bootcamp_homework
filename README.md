@@ -8,7 +8,7 @@ Website: <https://www.plaid.com>
 
 ### Origin
 
-Plaid Incorporated is a financial services provider that operates in the domains of 
+Plaid Incorporated is a financial services provider that operates in the domains of digital banking, fraud and compliance, personal finance, risk assessment and credit underwriting, and open finance.
 
 Founded in 2013 by Zach Perret and William Hockey, the company is headquartered in San Francisco, California. Originally aimed at developing financial management products for the end user, Perret and Hockey attempted to bring booking and budgeting software to market. Facing the challenges of linking their software to banking institutions, they shifted their focus to meet this need for a unified banking application programming interface (“API”).
 
