@@ -67,7 +67,10 @@ Plaid has developed a platform that facilitates the connection between Fintech c
 
 
 ```text
-“people’s data leaking is so common that we actually use it as a negative indicator in our anti-fraud models…if we don’t see you in breach data it means that it is probably a synthetic or fake identity"
+“people’s data leaking [in other software] is so common that we
+actually use it as a negative indicator in our anti-fraud models…
+if we don’t see you in breach data it means that it is probably a
+synthetic or fake identity"
 
 - Alain Meier, Plaid's Head of Identity
 ```
