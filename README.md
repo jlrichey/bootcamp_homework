@@ -22,8 +22,6 @@ didn’t exist; so we decided to go out and build it” - Zach Perret
 ![Plaid Founders](https://imageio.forbes.com/specials-images/imageserve/606cc07c057d1b6bbe16ce7a/Plaid-cofounders-William-Hockey-and-Zach-Perret/0x0.jpg?format=jpg&width=1440)
 <sub>Plaid co-founders William Hockey (left) and Zach Perret (right) - Source: Forbes.com - © Kevin Hu</sub>
 
-
-
 ### Funding
 
 | Year  | Round | Primary Investor(s) | Funding | Valuation |
@@ -33,9 +31,6 @@ didn’t exist; so we decided to go out and build it” - Zach Perret
 |2016 | Series B| [Goldman Sachs Investment Partnerrs](https://growth.gs.com/homepage)| $44M| undisclosed|
 |2018 | Series C| [Mary Meeker](https://www.bondcap.com/partners/mary-meeker/), [Norwest Venture Partners](https://www.nvp.com/), [Index Ventures](https://www.indexventures.com/)| $250M| $2.65B|
 |2021 | Series D| [Altimeter Capital](https://www.altimeter.com/home), [Silver Lake](https://www.silverlake.com/), [Ribbit Capital](https://ribbitcap.com/)| $425M| $13.4B|
-
-
-
 
 ## Business Activities
 
@@ -50,9 +45,40 @@ According to Stackshare, Plaid is leveraging many technologies to develop its of
 
 ## Landcape
 
+Plaid operates in the fields of personal finance, consumer payments, business finance, lending, open finance, digital banking, and wealth management. Plaid’s technologies power key players in mobile banking, including MoneyLion, Varo, Chime, and M1 Finance.  
+
+Many of the major trends over the past 10 years in this space pertain to the speed and efficiency of financial transactions. The development of blockchain technology has enabled the emergence of cryptocurrencies and decentralized finance.
+
+Quovo, one of their primary competitors, was acquired by Plaid for $200 million in 2019.  Some other major players in the space include Stripe, Akoya, Finbox, MX, Envestnet/Yodlee, Finicity, Chime, and N26.
+
+Stripe, with a valuation of $50 billion in 2023, is the largest competitor in the space.  Plaid's latest valuation was in the neighborhood of $13.4 billion, established in its last round of funding in 2021.  Of note, Stripe was valued at $95 billion in 2021.
+
+
 ## Results
 
+Core metrics for success that Plaid highlights in its 2022 Fintech Report and on its website are the overall adoption of fintech products and services by businesses and consumers, growth in market sentiment toward fintech products, regional expansion into UK and Europe, fulfilling compliance requirements and privacy concerns, number of fintech offerings built on Plaid technology, number of team members, and financial solvency.
+
+According to 6sense technographics, in the comparison of technology platforms for specific industries, Plaid ranks number 1 in loan servicing, number 1 in trading, number 1 in mortgages, number 1 in loan origination, number 2 in data quality, and number 14 in application development.
+
+For example, in the loan origination space, Plaid has a market share of 82.42% of all business, with 26 competitors, the top three of which are Ellie Mae, LendingPad, and Byte, according to 6sense technographics (see link in the addendum).
+
 ## Recommendations
+
+
+I would advise the company to continue developing and expanding its fraud and compliance offerings. The primary reason for my recommendation is to continue to rehab from the damage done by the 2022 lawsuit and $58 million settlement reached over customer privacy rights and the collection of superfluous data.  Plaid must continue to protect customer rights and highlight its transparency and ethicality regarding consumer data collection. 
+
+Speaking to the public’s concern about the privacy of personal data, Plaid COO Eric Sager highlights the launch of Plaid Portal, allowing the consumer complete control to grant and revoke permissions for their own data within Plaid’s ecosystem. Proliferating the knowledge of this service is essential. 
+
+In an age of security breaches are ubiquitous and privacy is threatened, Plaid can distinguish itself with KYC (know you customer) validation.
+
+```text
+“people’s data leaking [in other software] is so common that we
+actually use it as a negative indicator in our anti-fraud models…
+if we don’t see you in breach data it means that it is probably a
+synthetic or fake identity"
+
+- Alain Meier, Plaid's Head of Identity
+```
 
 ## Addendum - Sources
 
@@ -79,12 +105,3 @@ According to Stackshare, Plaid is leveraging many technologies to develop its of
 | Plaid  | [Various articles from Plaid Blog](https://plaid.com/blog/)  |
 | Investopedia  | [Plaid: What It Is, How It Works, Is it Safe?](link)  |
 | 6sense  | [Plaid technographics, loan origination](https://6sense.com/tech/loan-origination/plaid-market-share)  |
-
-```text
-“people’s data leaking [in other software] is so common that we
-actually use it as a negative indicator in our anti-fraud models…
-if we don’t see you in breach data it means that it is probably a
-synthetic or fake identity"
-
-- Alain Meier, Plaid's Head of Identity
-```
