@@ -39,7 +39,14 @@ didn’t exist; so we decided to go out and build it” - Zach Perret
 
 ## Business Activities
 
-Plaid has developed a platform that facilitates the connection between Fintech companies, their digital finance offerings, and their user’s accounts with financial institutions. They claim to service over 8,000 fintech providers, facilitating a digital connection to over 12,000 financial institutions. Their technology is used by key fintech companies including Venmo, Acorns, Betterment, Chime, and SoFi, to name a few. 
+When the co-founders began in 2013 there was no good way to connect fintech products and services with consumer personal bank accounts. People were still uploading files, such as CSVs to their financial software, like Quickbooks and Quicken, to populate the ledgers. Funding a brokerage account took weeks of verification. Identities were difficult, if not impossible, to verify in real-time for financial transactions and account links, leaving both financial product providers and consumers at risk of fraud.
+
+Plaid targets a range of customers with its diverse offerings, from business users such as fintech companies, banks, corporate entities, and brokers to individual consumers who experience the technology, sometimes unknowingly, in their financial applications. Plaid has also made a concerted effort to make its tech accessible and developer-friendly, thereby proliferating the market at an accelerated rate.
+
+A sizeable player in the space, one of Plaid’s strengths is the breadth of their current customer base. Plaid has developed a platform that facilitates the connection between Fintech companies, their digital finance offerings, and their user’s accounts with financial institutions. They claim to service over 8,000 fintech providers, facilitating a digital connection to over 12,000 financial institutions. Their technology is used by key fintech companies, including Venmo, Acorns, Betterment, Chime, and SoFi, to name a few. 
+
+According to Stackshare, Plaid is leveraging many technologies to develop its offerings, including Python, Node.js, React, MySQL, MongoDB, Golang, and others. They are using Slack and Salesforce for communications and customer resource management solutions. 
+
 
 ## Landcape
 
@@ -71,6 +78,7 @@ Plaid has developed a platform that facilitates the connection between Fintech c
 | Forbes  | [Plaid Launches New Feature To Speed Up Bank Payments](https://www.forbes.com/sites/emilymason/2023/04/13/plaid-launches-new-feature-to-speed-up-bank-payments/?sh=6713fe164e2b)  |
 | Plaid  | [Various articles from Plaid Blog](https://plaid.com/blog/)  |
 | Investopedia  | [Plaid: What It Is, How It Works, Is it Safe?](link)  |
+| 6sense  | [Plaid technographics, loan origination](https://6sense.com/tech/loan-origination/plaid-market-share)  |
 
 ```text
 “people’s data leaking [in other software] is so common that we
