@@ -4,11 +4,17 @@
 
 Website: <https://www.plaid.com>
 
-## Overview and Origin
+## Overview
+
+### Origin
 
 Plaid Incorporated is a financial services provider that operates in the domains of 
 
 Founded in 2013 by Zach Perret and William Hockey, the company is headquartered in San Francisco, California. Originally aimed at developing financial management products for the end user, Perret and Hockey attempted to bring booking and budgeting software to market. Facing the challenges of linking their software to banking institutions, they shifted their focus to meet this need for a unified banking application programming interface (“API”). 
+
+### Plaid Founders
+![Plaid Founders](https://imageio.forbes.com/specials-images/imageserve/606cc07c057d1b6bbe16ce7a/Plaid-cofounders-William-Hockey-and-Zach-Perret/0x0.jpg?format=jpg&width=1440)
+<sub>Plaid co-founders William Hockey (left) and Zach Perret (right) - Source: Forbes.com - © Kevin Hu</sub>
 
 ### Funding
 
@@ -21,9 +27,7 @@ Founded in 2013 by Zach Perret and William Hockey, the company is headquartered 
 |2021 | Series D| [Altimeter Capital](https://www.altimeter.com/home), [Silver Lake](https://www.silverlake.com/), [Ribbit Capital](https://ribbitcap.com/)| $425M| $13.4B|
 
 
-### Plaid Founders
-![Plaid Founders](https://imageio.forbes.com/specials-images/imageserve/606cc07c057d1b6bbe16ce7a/Plaid-cofounders-William-Hockey-and-Zach-Perret/0x0.jpg?format=jpg&width=1440)
-<sub>Plaid co-founders William Hockey (left) and Zach Perret (right) - Source: Forbes.com - © Kevin Hu</sub>
+
 
 ## Business Activities
 
