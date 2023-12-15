@@ -35,34 +35,11 @@ Plaid has developed a platform that facilitates the connection between Fintech c
 
 ## Landcape
 
-
-
-
 ## Results
-
-
-
 
 ## Recommendations
 
-
 ## Addendum - Sources
-
-* []
-* <https://www.reuters.com/article/plaid-m-a-visa-doj-idUSKBN27D0JJ/>
-* <https://www.reuters.com/article/idUSKBN2BU1IC/>
-* <https://www.reuters.com/article/us-visa-lawsuit-plaid-idUSKBN27L26S/>
-* <https://www.reuters.com/article/idUSKBN2BU1IC/>
-
-
-| Plugin | README |
-| ------ | ------ |
-| Dropbox | [plugins/dropbox/README.md][PlDb] |
-| GitHub | [plugins/github/README.md][PlGh] |
-| Google Drive | [plugins/googledrive/README.md][PlGd] |
-| OneDrive | [plugins/onedrive/README.md][PlOd] |
-| Medium | [plugins/medium/README.md][PlMe] |
-| Google Analytics | [plugins/googleanalytics/README.md][PlGa] |
 
 | Source  | Link |
 | ------------- | ------------- |
@@ -89,6 +66,21 @@ Plaid has developed a platform that facilitates the connection between Fintech c
 | Plaid  | [The Fintech Effect](link)  |
 
 
+```text
+“people’s data leaking is so common that we actually use it as a negative indicator in our anti-fraud models…if we don’t see you in breach data it means that it is probably a synthetic or fake identity"
+
+- Alain Meier, Plaid's Head of Identity
+```
+
 ```python
 print("Hello world")
 ```
+
+| Plugin | README |
+| ------ | ------ |
+| Dropbox | [plugins/dropbox/README.md][PlDb] |
+| GitHub | [plugins/github/README.md][PlGh] |
+| Google Drive | [plugins/googledrive/README.md][PlGd] |
+| OneDrive | [plugins/onedrive/README.md][PlOd] |
+| Medium | [plugins/medium/README.md][PlMe] |
+| Google Analytics | [plugins/googleanalytics/README.md][PlGa] |
