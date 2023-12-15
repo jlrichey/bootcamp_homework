@@ -70,9 +70,7 @@ Plaid has developed a platform that facilitates the connection between Fintech c
 | Forbes  | [Fintech's Happy Plumbers](https://www.forbes.com/plaid-fintech/#3b5db98f67f9)  |
 | Forbes  | [Plaid Launches New Feature To Speed Up Bank Payments](https://www.forbes.com/sites/emilymason/2023/04/13/plaid-launches-new-feature-to-speed-up-bank-payments/?sh=6713fe164e2b)  |
 | Plaid  | [Various articles from Plaid Blog](https://plaid.com/blog/)  |
-| Plaid  | [The Fintech Effect](link)  |
-| Plaid  | [The Fintech Effect](link)  |
-
+| Investopedia  | [Plaid: What It Is, How It Works, Is it Safe?](link)  |
 
 ```text
 “people’s data leaking [in other software] is so common that we
@@ -82,16 +80,3 @@ synthetic or fake identity"
 
 - Alain Meier, Plaid's Head of Identity
 ```
-
-```python
-print("Hello world")
-```
-
-| Plugin | README |
-| ------ | ------ |
-| Dropbox | [plugins/dropbox/README.md][PlDb] |
-| GitHub | [plugins/github/README.md][PlGh] |
-| Google Drive | [plugins/googledrive/README.md][PlGd] |
-| OneDrive | [plugins/onedrive/README.md][PlOd] |
-| Medium | [plugins/medium/README.md][PlMe] |
-| Google Analytics | [plugins/googleanalytics/README.md][PlGa] |
